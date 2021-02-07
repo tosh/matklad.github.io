@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matklad</title>
+    <description>Yet another programming blog by Aleksey Kladov aka matklad.
+</description>
+    <link>https://matklad.github.io//</link>
+    <atom:link href="https://matklad.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 Feb 2021 07:28:30 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2021 07:28:30 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>ARCHITECTURE.md</title>
+        <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html</guid>
+      </item>
+    
+      <item>
+        <title>Two Kinds of Code Review</title>
+        <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2021/01/03/two-kinds-of-code-review.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2021/01/03/two-kinds-of-code-review.html</guid>
+      </item>
+    
+      <item>
+        <title>Call Site Dependency Injection</title>
+        <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/12/28/csdi.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/12/28/csdi.html</guid>
+      </item>
+    
+      <item>
+        <title>Notes On Lock Poisoning</title>
+        <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/12/12/notes-on-lock-poisoning.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/12/12/notes-on-lock-poisoning.html</guid>
+      </item>
+    
+      <item>
+        <title>Why an IDE?</title>
+        <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/11/11/yde.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/11/11/yde.html</guid>
+      </item>
+    
+      <item>
+        <title>Notes on Paxos</title>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/11/01/notes-on-paxos.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/11/01/notes-on-paxos.html</guid>
+      </item>
+    
+      <item>
+        <title>Study of std::io::Error</title>
+        <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/10/15/study-of-std-io-error.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/10/15/study-of-std-io-error.html</guid>
+      </item>
+    
+      <item>
+        <title>Fast Thread Locals In Rust</title>
+        <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/10/03/fast-thread-locals-in-rust.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/10/03/fast-thread-locals-in-rust.html</guid>
+      </item>
+    
+      <item>
+        <title>Why Not Rust?</title>
+        <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/09/20/why-not-rust.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/09/20/why-not-rust.html</guid>
+      </item>
+    
+      <item>
+        <title>Your Language Sucks, It Doesn&amp;#8217;t Matter</title>
+        <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/09/13/your-language-sucks.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/09/13/your-language-sucks.html</guid>
+      </item>
+    
+  </channel>
+</rss>
